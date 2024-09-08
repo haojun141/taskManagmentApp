@@ -22,6 +22,7 @@ I initially had over 50 commits on another repository, but because of trial and 
 I then decided to create a new repository.
 
 # Other information
-## contact
+## If you have any questions regarding my application please contact me through my emails. Thank you!
 Personal email: haojun0114@outlook.com
+
 School email: hzhou012@mymail.sim.edu.sg
